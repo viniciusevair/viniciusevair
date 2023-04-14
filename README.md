@@ -4,6 +4,7 @@ I'm an undergrad Computer Science student at Federal University of Paraná (UFPR
 
 There's not much to see here for now besides my class projects, but feel free to go through all of them. ;)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaiir&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
