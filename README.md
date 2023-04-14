@@ -1,4 +1,4 @@
-### Hi there 🌻
+# 🌻 Hi there 🌻
 
 I'm an undergrad Computer Science student at Federal University of Paraná (UFPR), currently at the third semester.
 
