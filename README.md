@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 🌻
+
+I'm an undergrad Computer Science student at Federal University of Paraná (UFPR), currently at the third semester.
+
+There's not much to see here for now besides my class projects, but feel free to go through all of them. ;)
+
+
 
 <!--
 **evaiir/evaiir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
