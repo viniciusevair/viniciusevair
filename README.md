@@ -1,6 +1,6 @@
 # 🌻 Hi there 🌻
 
-I'm an undergrad Computer Science student at Federal University of Paraná (UFPR), currently at the third semester.
+I'm an undergrad Computer Science student at Federal University of Paraná (UFPR), currently at the fourth semester.
 
 There's not much to see here for now besides my class projects, but feel free to go through all of them. ;)
 
